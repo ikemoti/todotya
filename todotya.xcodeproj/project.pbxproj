@@ -14,6 +14,7 @@
 		CEE07C5E23DEE5E500FCECC7 /* todotya.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CEE07C5C23DEE5E500FCECC7 /* todotya.xcdatamodeld */; };
 		CEE07C6023DEE5E800FCECC7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE07C5F23DEE5E800FCECC7 /* Assets.xcassets */; };
 		CEE07C6323DEE5E800FCECC7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE07C6123DEE5E800FCECC7 /* LaunchScreen.storyboard */; };
+		CEE07C6B23DEE7CF00FCECC7 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE07C6A23DEE7CF00FCECC7 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CEE07C5F23DEE5E800FCECC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEE07C6223DEE5E800FCECC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEE07C6423DEE5E800FCECC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE07C6A23DEE7CF00FCECC7 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				CEE07C5323DEE5E500FCECC7 /* AppDelegate.swift */,
 				CEE07C5523DEE5E500FCECC7 /* SceneDelegate.swift */,
 				CEE07C5723DEE5E500FCECC7 /* ViewController.swift */,
+				CEE07C6A23DEE7CF00FCECC7 /* NextViewController.swift */,
 				CEE07C5923DEE5E500FCECC7 /* Main.storyboard */,
 				CEE07C5F23DEE5E800FCECC7 /* Assets.xcassets */,
 				CEE07C6123DEE5E800FCECC7 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEE07C6B23DEE7CF00FCECC7 /* NextViewController.swift in Sources */,
 				CEE07C5E23DEE5E500FCECC7 /* todotya.xcdatamodeld in Sources */,
 				CEE07C5823DEE5E500FCECC7 /* ViewController.swift in Sources */,
 				CEE07C5423DEE5E500FCECC7 /* AppDelegate.swift in Sources */,
